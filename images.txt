@@ -6,4 +6,4 @@
 #postgres:14
 #tensorchord/pgvecto-rs:pg14-v0.2.0
 #nginx:latest
-mongodb:latest
+mongodb/mongodb-community-server:latest
