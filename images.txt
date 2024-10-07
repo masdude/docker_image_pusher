@@ -5,4 +5,5 @@
 #redis:latest
 #postgres:14
 #tensorchord/pgvecto-rs:pg14-v0.2.0
-nginx:latest
+#nginx:latest
+mongodb:latest
