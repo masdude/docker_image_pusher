@@ -2,3 +2,7 @@ php:8.2.20-cli
 php:8.2.20-fpm
 frangoteam/fuxa:latest
 ghcr.io/imagegenius/immich:latest
+postgres:13
+redis:6
+minio/minio
+mcr.microsoft.com/playwright:v1.40.0-jammy
