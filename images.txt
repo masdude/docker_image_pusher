@@ -7,7 +7,8 @@
 #tensorchord/pgvecto-rs:pg14-v0.2.0
 #nginx:latest
 #mongodb/mongodb-community-server:latest
-postgres:13
-redis:6
-minio/minio
-mcr.microsoft.com/playwright:v1.40.0-jammy
+#postgres:13
+#redis:6
+#minio/minio
+#mcr.microsoft.com/playwright:v1.40.0-jammy
+node:18-alpine
