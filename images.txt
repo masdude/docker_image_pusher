@@ -11,4 +11,5 @@
 #redis:6
 #minio/minio
 #mcr.microsoft.com/playwright:v1.40.0-jammy
-node:18-alpine
+#node:18-alpine
+diygod/rsshub
