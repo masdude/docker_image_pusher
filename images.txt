@@ -12,6 +12,6 @@
 #minio/minio
 #mcr.microsoft.com/playwright:v1.40.0-jammy
 #node:18-alpine
-diygod/rsshub
-browserless/chrome
-#redis:alpine
+#diygod/rsshub
+#browserless/chrome
+redis:alpine
