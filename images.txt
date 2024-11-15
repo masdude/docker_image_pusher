@@ -14,4 +14,5 @@
 #node:18-alpine
 #diygod/rsshub
 #browserless/chrome
-redis:alpine
+#redis:alpine
+python:3.8.12-slim
