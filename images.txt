@@ -16,3 +16,4 @@
 #browserless/chrome
 #redis:alpine
 python:3.8.12-slim
+mysql:8.3.0
