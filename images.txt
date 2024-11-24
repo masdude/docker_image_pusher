@@ -15,6 +15,7 @@
 #diygod/rsshub
 #browserless/chrome
 #redis:alpine
-python:3.8.12-slim
-mysql:8.3.0
-cooderl/wewe-rss-sqlite
+#python:3.8.12-slim
+#mysql:8.3.0
+#cooderl/wewe-rss-sqlite
+silentwind0/kvmd
