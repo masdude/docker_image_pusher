@@ -18,4 +18,9 @@
 #python:3.8.12-slim
 #mysql:8.3.0
 #cooderl/wewe-rss-sqlite
-silentwind0/kvmd
+#silentwind0/kvmd
+rabbitmq:3.9-management-alpine
+mongo:4.4
+sage668/shark-proxy-platform
+sage668/shark-proxy-check
+sage668/shark-proxy-spider
