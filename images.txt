@@ -24,5 +24,6 @@
 #sage668/shark-proxy-platform
 #sage668/shark-proxy-check
 #sage668/shark-proxy-spider
-blacksev/gemini-next-web
-node:18-alpine
+#blacksev/gemini-next-web
+#node:18-alpine
+nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
