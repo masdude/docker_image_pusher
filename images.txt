@@ -19,8 +19,10 @@
 #mysql:8.3.0
 #cooderl/wewe-rss-sqlite
 #silentwind0/kvmd
-rabbitmq:3.9-management-alpine
-mongo:4.4
-sage668/shark-proxy-platform
-sage668/shark-proxy-check
-sage668/shark-proxy-spider
+#rabbitmq:3.9-management-alpine
+#mongo:4.4
+#sage668/shark-proxy-platform
+#sage668/shark-proxy-check
+#sage668/shark-proxy-spider
+blacksev/gemini-next-web
+node:18-alpine
