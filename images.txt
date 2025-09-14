@@ -27,4 +27,5 @@
 #blacksev/gemini-next-web
 #node:18-alpine
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
-ghcr.io/senshinya/moontv
+#ghcr.io/senshinya/moontv
+ubuntu:24.04
