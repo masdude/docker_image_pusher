@@ -29,4 +29,5 @@
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 #ghcr.io/senshinya/moontv
 #ubuntu:24.04
-ubuntu: 22.04
+ubuntu:22.04
+ghcr.io/blackcandy-org/blackcandy:latest
