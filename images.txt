@@ -31,4 +31,4 @@
 #ubuntu:24.04
 #ubuntu:22.04
 #ghcr.io/blackcandy-org/blackcandy:latest
-gyulyvgc/sniffnet
+ghcr.io/gyulyvgc/sniffnet:latest
