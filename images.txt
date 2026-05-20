@@ -37,4 +37,6 @@
 #openresty/openresty
 #kyuz0/llamacpp-toolbox-gfx906:rocm-6.4.4
 #kyuz0/llamacpp-toolbox-gfx906:rocm-7.2.1
-kyuz0/vllm-toolbox-gfx906:0.19.1-rocm-7.2.1-aiinfos
+#kyuz0/vllm-toolbox-gfx906:0.19.1-rocm-7.2.1-aiinfos
+ghcr.io/bigbodycobain/shadowbroker-backend:latest
+ghcr.io/bigbodycobain/shadowbroker-frontend:latest
